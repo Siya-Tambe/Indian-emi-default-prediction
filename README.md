@@ -6,9 +6,9 @@
 
 ## 📊 Interactive Dashboard
 
-[![Dashboard Preview](charts/dashboard.png)](your-looker-studio-link-here)
+[![Dashboard Preview](charts/dashboard.png)](https://datastudio.google.com/s/l0LYN880_i0)
 
-> 🔗 [View Live Interactive Dashboard →](your-looker-studio-link-here)
+> 🔗 [View Live Interactive Dashboard →](https://datastudio.google.com/s/l0LYN880_i0)
 
 Features cross-filtering, India state map, feature importance heatmap, and age group analysis.
 
@@ -50,13 +50,13 @@ Actual High Risk        326                 696
 ## 📈 Charts & Visualisations
 
 ### Model Performance Summary
-![Model Performance](model_performance.png)
+![Model Performance](charts/model_performance.png)
 
 ### Confusion Matrix + Feature Importance
-![Model Analysis](model_analysis.png)
+![Model Analysis](charts/model_analysis.png)
 
 ### Exploratory Data Analysis
-![EDA Charts](eda_charts.png)
+![EDA Charts](charts/eda_charts.png)
 
 ---
 
