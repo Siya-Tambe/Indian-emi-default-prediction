@@ -1,0 +1,21 @@
+Feature,Importance
+yearly_income,0.15990355236628348
+per_capita_income,0.1597441634883129
+dti_ratio,0.14669739334100884
+current_age,0.14315685685196847
+total_debt,0.12354753269717504
+amount,0.10336299342558392
+num_credit_cards,0.05359842200663669
+gender_Male,0.02124034086785212
+use_chip,0.013371191050954336
+merchant_state_Maharashtra,0.009108404090299109
+merchant_state_Madhya Pradesh,0.008828579158042362
+merchant_state_Gujarat,0.00876247555162173
+merchant_state_Karnataka,0.006649819857904237
+merchant_state_Uttar Pradesh,0.006531171889632104
+merchant_state_Telangana,0.006458822250533562
+merchant_state_Tamil Nadu,0.006453541730626661
+gender_Other,0.006347316021634199
+merchant_state_Rajasthan,0.005625821911641951
+merchant_state_Delhi,0.005506255439705239
+merchant_state_West Bengal,0.00510534600258305
