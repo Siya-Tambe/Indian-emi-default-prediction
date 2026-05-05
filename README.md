@@ -6,7 +6,7 @@
 
 ## 📊 Interactive Dashboard
 
-[![Dashboard Preview](emi_dashboard_preview.png)](your-looker-studio-link-here)
+[![Dashboard Preview](charts\dashboard.png)](your-looker-studio-link-here)
 
 > 🔗 [View Live Interactive Dashboard →](your-looker-studio-link-here)
 
