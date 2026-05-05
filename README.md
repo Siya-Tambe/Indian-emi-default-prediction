@@ -6,7 +6,7 @@
 
 ## 📊 Interactive Dashboard
 
-[![Dashboard Preview](charts/dashboard.png)](https://datastudio.google.com/s/l0LYN880_i0)
+[![Dashboard Preview](charts/dashboard.png)
 
 > 🔗 [View Live Interactive Dashboard →](https://datastudio.google.com/s/l0LYN880_i0)
 
