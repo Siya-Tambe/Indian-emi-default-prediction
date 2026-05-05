@@ -105,7 +105,8 @@ Indian-emi-default-prediction/
 ├── charts/
 │   ├── eda_charts.png                 ← exploratory analysis
 │   ├── model_analysis.png             ← confusion matrix + feature importance
-│   └── model_performance.png          ← ROC curve + model comparison
+│   ├── model_performance.png          ← ROC curve + model comparison
+|   └── dashbaord.png
 │
 └── README.md
 ```
